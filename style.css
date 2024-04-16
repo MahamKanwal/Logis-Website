@@ -1,0 +1,29 @@
+*{
+     border: 1px solid red; 
+}
+body{
+     /* background-color:  #0e1d34;  */
+
+}
+.navbar-brand{
+    
+        font-size: 30px;
+        margin: 0;
+        font-weight: 700;
+        /* font-family: var(--font-primary); */
+
+}
+.navbar{
+    background-color:  #0e1d34;;
+    
+}
+.form-control {
+     padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 25px;
+    padding-right: 20px; 
+    border: none;
+    margin-right: 10px;
+    border: none !important;
+    background: none !important;
+}

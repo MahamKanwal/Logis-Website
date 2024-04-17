@@ -1,5 +1,5 @@
 *{
-     border: 1px solid red; 
+     /* border: 1px solid red;  */
 }
 body{
      /* background-color:  #0e1d34;  */
@@ -27,3 +27,28 @@ body{
     border: none !important;
     background: none !important;
 }
+.num{
+     font-size: 32px;
+     display: block;
+     font-weight: 700;
+     /* margin-bottom: 15px; */
+     /* padding-bottom: 15px; */
+     position: relative;
+ }
+.word{
+     
+          padding: 0;
+          margin: 0;
+          font-family:sans-serif;
+          font-size: 15px;
+          font-weight: 600;
+}
+.before {
+     content: "";
+     /* position: absolute; */
+     display: block;
+     width: 20px;
+     height: 3px;
+     background: blue;
+     margin: auto;
+ }

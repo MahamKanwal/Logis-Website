@@ -1,17 +1,12 @@
 *{
       border: 1px solid red; 
 }
-body{
-     /* background-color:  #0e1d34;  */
-
-}
 .navbar-brand{
     
         font-size: 30px;
         margin: 0;
         font-weight: 700;
-        /* font-family: var(--font-primary); */
-
+    
 }
 .navbar{
     background-color:  #0e1d34;;
@@ -31,8 +26,6 @@ body{
      font-size: 32px;
      display: block;
      font-weight: 700;
-     /* margin-bottom: 15px; */
-     /* padding-bottom: 15px; */
      position: relative;
  }
 .word{
@@ -45,7 +38,6 @@ body{
 }
 .before {
      content: "";
-     /* position: absolute; */
      display: block;
      width: 20px;
      height: 3px;

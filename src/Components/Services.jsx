@@ -13,7 +13,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/storage-service.jpg" className="card-img-top img-fluid"/> 
+            <img src="src/assets/storage-service.jpg" className="card-img-top img-fluid"/> 
             <div className="card-body">
               <h5 className="card-title about">STORAGE</h5>
               <p className="card-text text-dark">Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia
@@ -25,7 +25,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/logistics-service.jpg" className="card-img-top img-fluid"/>
+            <img src="src/assets/logistics-service.jpg" className="card-img-top img-fluid"/>
             <div className="card-body">
               <h5 className="card-title about">LOGISTICS</h5>
               <p className="card-text text-dark">Asperiores provident dolor accusamus pariatur dolore nam id audantium
@@ -37,7 +37,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/cargo-service.jpg" className="card-img-top img-fluid"/>
+            <img src="src/assets/cargo-service.jpg" className="card-img-top img-fluid"/>
             <div className="card-body">
               <h5 className="card-title about">CARGO</h5>
               <p className="card-text text-dark">Dicta quam similique quia architecto eos nisi aut ratione aut ipsum
@@ -49,7 +49,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/trucking-service.jpg" className="card-img-top img-fluid"/>
+            <img src="src/assets/trucking-service.jpg" className="card-img-top img-fluid"/>
             <div className="card-body">
               <h5 className="card-title about">TRUCKING</h5>
               <p className="card-text text-dark">Dicta quam similique quia architecto eos nisi aut ratione aut ipsum
@@ -61,7 +61,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/packaging-service.jpg" className="card-img-top img-fluid"/>
+            <img src="src/assets/packaging-service.jpg" className="card-img-top img-fluid"/>
             <div className="card-body">
               <h5 className="card-title about">PACKAGING</h5>
               <p className="card-text text-dark">Illo consequuntur quisquam delectus praesentium modi dignissimos facere
@@ -73,7 +73,7 @@ function Services() {
 
         <div className="col-12 col-xl-4 col-md-6">
           <div className="card">
-            <img src="/warehousing-service.jpg" className="card-img-top img-fluid"/>
+            <img src="src/assets/warehousing-service.jpg" className="card-img-top img-fluid"/>
             <div className="card-body">
               <h5 className="card-title about">WAREHOUSEING</h5>
               <p className="card-text text-dark">Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in

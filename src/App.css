@@ -281,3 +281,12 @@ color-mix(in srgb, var(--heading-color), transparent 95%);
   position: relative;
   z-index: 2;
 }
+
+.features h2,
+.features h3 {
+  color: #001973;
+}
+
+.features i {
+  color: blue !important;
+}

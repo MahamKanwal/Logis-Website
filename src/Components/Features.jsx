@@ -1,14 +1,14 @@
 import React from 'react'
  import '../App.css';
-// import '@fortawesome/fontawesome-free/css/all.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 function Features() {
   return (
     <>
 
 <section id="features" className="features section">
       <div className="container section-title" data-aos="fade-up">  
-        <h2>Features</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2 className='text-center mt-5'>Features</h2>
+      <p className='text-center'>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div>
       <div className="container">
 
@@ -23,9 +23,9 @@ function Features() {
               magna aliqua.
             </p>
             <ul>
-              <li><i className="bi bi-check"></i><span> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i className="bi bi-check"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i className="bi bi-check"></i> <span>Ullam est qui quos consequatur eos accusamus.</span></li>
+              <li><i className="fa-duotone fa-solid fa-check"></i><span> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+              <li><i className="fa-duotone fa-solid fa-check"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+              <li><i className="fa-duotone fa-solid fa-check"></i><span>Ullam est qui quos consequatur eos accusamus.</span></li>
             </ul>
           </div>
         </div>
@@ -56,9 +56,9 @@ function Features() {
             <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
             <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
             <ul>
-              <li><i className="bi bi-check"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i className="bi bi-check"></i><span> Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i className="bi bi-check"></i> <span>Facilis ut et voluptatem aperiam. Autem soluta ad fugiat</span>.</li>
+              <li><i className="fa-duotone fa-solid fa-check"></i><span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+              <li><i className="fa-duotone fa-solid fa-check"></i><span> Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+              <li><i className="fa-duotone fa-solid fa-check"></i><span>Facilis ut et voluptatem aperiam. Autem soluta ad fugiat</span>.</li>
             </ul>
           </div>
         </div>

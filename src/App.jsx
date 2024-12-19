@@ -6,7 +6,9 @@ import About from './Components/About'
 import Services from './Components/Services'
 import CallToAction from './Components/CallToAction'
 import Features from './Components/Features'
-import Greet from './Components/Greet'
+// import Greet from './Components/Greet'
+import Pricing from './Components/Pricing'
+import Footer from './Components/Footer'
 function App() {
   
 
@@ -106,7 +108,10 @@ const featureData = [
 <Greet name="Manahil" course="Artificial Intelligence"/>
 <Greet name="Nazia" course="English Language"/>
 Props */}
-<Greet/>
+{/* <Greet/> */}
+
+<Pricing/>
+<Footer/>
 
    </>  
   )

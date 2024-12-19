@@ -2,7 +2,7 @@ import React from 'react';
 // import '../App.css';
 function About() {
   return (
-    <>
+    <> 
       <div className="container-fluid px-4">
         <div className="row align-items-center g-5 d-flex">
           <div className="col-lg-6 flex-column-reverse">
@@ -57,7 +57,9 @@ function About() {
           </div>
         </div>
       </div>
-    </>
+
+  </> 
+
   );
 }
 

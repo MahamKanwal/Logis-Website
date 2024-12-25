@@ -5,7 +5,7 @@ function CallToAction() {
         <>
          <section id="call-to-action" className="call-to-action section dark-background">
 
-<img src="src/assets/cta-bg.jpg" alt=""/>
+<img src="./src/assets/cta-bg.jpg" alt=""/>
 
 <div className="container">
   <div className="row justify-content-center aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">

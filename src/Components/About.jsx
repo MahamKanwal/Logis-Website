@@ -15,7 +15,7 @@ function About() {
             </p>
             <ul className="no-padding">
               <li data-aos="fade-up" data-aos-delay="100" className="aos-init aos-animate" style={{ listStyle: "none" }}>
-                <img src="src/assets/diagram-3-fill.svg" className="fill" alt="Diagram Icon" />
+                <img src="./src/assets/diagram-3-fill.svg" className="fill" alt="Diagram Icon" />
                 <div>
                   <h5 className="about">Ullamco laboris nisi ut aliquip consequat</h5>
                   <p className="text-dark">
@@ -24,7 +24,7 @@ function About() {
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="200" className="aos-init aos-animate" style={{ listStyle: "none" }}>
-                <img src="src/assets/fullscreen.png" className="fill" alt="Fullscreen Icon" />
+                <img src="./src/assets/fullscreen.png" className="fill" alt="Fullscreen Icon" />
                 <div>
                   <h5 className="about">Magnam soluta odio exercitationem reprehenderi</h5>
                   <p className="text-dark">
@@ -33,7 +33,7 @@ function About() {
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="300" className="aos-init aos-animate" style={{ listStyle: "none" }}>
-                <img src="src/assets/broadcast.png" className="fill" alt="Broadcast Icon" />
+                <img src="./src/assets/broadcast.png" className="fill" alt="Broadcast Icon" />
                 <div>
                   <h5 className="about">Voluptatem et qui exercitationem</h5>
                   <p className="text-dark">
@@ -46,7 +46,7 @@ function About() {
 
           <div className="col-12 col-sm-12 col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img
-              src="src/assets/mans.jpg"
+              src="./src/assets/mans.jpg"
               className="d-block mx-lg-auto img-fluid"
               alt="Bootstrap Themes"
               width="700"
